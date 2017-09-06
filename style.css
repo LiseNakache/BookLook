@@ -1,0 +1,28 @@
+/* body{
+    background : url("http://bit.ly/2eGbrhG")  no-repeat center fixed;
+    background-size: cover;
+    height: 700px; 
+
+} */
+
+
+hr {
+border-color: blue;
+opacity : 0.5;
+}
+
+
+h1, h2 {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.ISBN-number{ 
+    border : 1px solid rgba(128, 128, 128, 0.27);
+    width : 100%;
+}
+
+.btn-search {
+    margin : 10px 0;
+}
